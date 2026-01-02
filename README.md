@@ -22,6 +22,18 @@ yarn start
 
 With Metro running, open a new terminal window/pane from the root of your React Native project, and use one of the following commands to build and run your Android or iOS app:
 
+# Libraries Used
+
+```
+React Navigation – screen navigation
+
+AsyncStorage – local persistence
+
+dayjs – date formatting
+
+react-native-modal – info sheet
+```
+
 ### Android
 
 ```sh
